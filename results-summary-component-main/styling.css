@@ -31,3 +31,57 @@ body p {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
+
+
+/* Result Card */
+
+
+.result{
+
+}
+
+.result-number{
+
+
+}
+
+.result-card-text{
+
+
+}
+
+/* Summary Card */
+
+.summary-card {
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.reaction {
+
+}
+
+.memory {
+
+}
+
+.verbal {
+
+}
+
+.visual {
+
+}
+
+.button {
+    background-color: var(--dark-gray-blue);
+    color: var(--white);
+    border-bottom: 5rem;
+    width: auto;
+    
+}
+
